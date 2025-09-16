@@ -11,5 +11,6 @@ int main()
     d4=(xe/10)%10;
     d5=xe%10;
     cout<<"Tong cac so cua xe:"<<d1+d2+d3+d4+d5;
+    cout<<"hello";
     return 0;
 }
