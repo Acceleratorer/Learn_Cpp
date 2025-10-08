@@ -59,5 +59,6 @@
   "files.associations": {
     ".fantomasignore": "ignore",
     "iostream": "cpp"
-  }
+  },
+  "CodeGPT.apiKey": "Gemini CLI"
 }
